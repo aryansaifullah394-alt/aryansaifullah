@@ -1,4 +1,4 @@
-# My New Project - Person A Step 2
+# My New Project - Final Version
 
 This is the main branch
 
